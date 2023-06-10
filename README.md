@@ -13,12 +13,12 @@ For Debian based (apt)
 - `apt update -y; apt upgrade -y; apt install dkms bc git unzip -y`
 
 Installation [manual]
-- `git clone https://github.com/wildy238/Realtek-RTL8811C-Linux.git && cd Realtek-RTL8811C-Linux && unzip -o Realtek-RTL8811C-Linux.zip && make && make install`
+- `git clone https://github.com/wildy283/Realtek-RTL8811C-Linux.git && cd Realtek-RTL8811C-Linux && unzip -o Realtek-RTL8811C-Linux.zip && make && make install`
 - `reboot`
 - Done
 
 Installation [dkms]
-- `git clone https://github.com/wildy238/Realtek-RTL8811C-Linux.git && cd Realtek-RTL8811C-Linux && unzip -o Realtek-RTL8811C-Linux.zip && chmod +x dkms-install.sh && ./dkms-install.sh`
+- `git clone https://github.com/wildy283/Realtek-RTL8811C-Linux.git && cd Realtek-RTL8811C-Linux && unzip -o Realtek-RTL8811C-Linux.zip && chmod +x dkms-install.sh && ./dkms-install.sh`
 - `reboot`
 - Done
 
